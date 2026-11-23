@@ -2,7 +2,7 @@
 .STACK 20H 
 .DATA
 
-    cDescrip    DB 'Multiplicacion y division Jesed Serrano e Isaac Romero', 10,10,13,'$'
+    cDescrip    DB 'Multiplicacion y division Yushab Jesed Serrano Lopez, Isaac Romero Favela', 10,10,13,'$'
     cFinProg    DB 10,10,13,'El programa ha finalizado, presione enter para salir$'
     cIngresa1   DB 10,10,13,'Ingrese el primer numero: $'
     cIngresa2   DB 10,10,13,'Ingrese el segundo numero: $'

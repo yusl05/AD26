@@ -1,0 +1,11 @@
+.MODEL SMALL
+.STACK 20H
+.DATA
+
+
+.CODE
+
+eInicio:
+
+
+EDN eInicio
